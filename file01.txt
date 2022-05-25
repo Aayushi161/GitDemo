@@ -1,0 +1,9 @@
+This is my first file to understand git 
+I am in second line 
+End of file.^Z
+
+
+
+^Z
+
+
